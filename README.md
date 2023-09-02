@@ -16,9 +16,9 @@
 
 ## Sobre mim / About me
 
-Iniciei na área de programação desde 2018 quando iniciei no curso de Técnico em Informática na Etec Poá, desde então busco aprimorar minhas habilidades na área e aprender cada vez mais sobre diferentes técnologias.
+Estudando a área de programação desde 2018 quando iniciei no curso de Técnico em Informática na Etec Poá, desde então busco aprimorar minhas habilidades na área e aprender cada vez mais sobre diferentes técnologias.
 
-First started at the programming area since 2018 when I first started the IT course at Etec Poá, after that I've been looking to improve my skills at the area and learn each time more about different technologies.
+Studying the programming area since 2018 when I first started the IT course at Etec Poá, after that I've been looking to improve my skills at the area and learn each time more about different technologies.
 
 ![Rogerio GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioAlmeidaJr&show_icons=true&theme=dracula)
 
